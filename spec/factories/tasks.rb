@@ -5,4 +5,3 @@ FactoryBot.define do
     user # users.rbで定義されているものを使い回す
   end
 end
-
